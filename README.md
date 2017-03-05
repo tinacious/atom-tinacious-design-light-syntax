@@ -23,5 +23,6 @@ It complements Atom's One Light UI theme nicely.
 
 ## Changelog
 
-### 1.0.0 - Initial Release
-- Initial release
+| Date        | Version | Change          |
+|:------------|:--------|:----------------|
+| 5 Mar 2017  | 1.2.0   | Initial release |
