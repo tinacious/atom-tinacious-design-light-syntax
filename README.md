@@ -2,7 +2,7 @@
 
 **Tinacious Design Light Syntax** is a light syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
-It is a light variation of the original [Tinacious Design Syntax theme](https://github.com/tinacious/atom-tinacious-design-syntax).
+It is a light variation of the original [Tinacious Design Syntax theme](https://atom.io/themes/tinacious-design-syntax).
 
 ![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/tinacious-design-syntax-swatches.png)
 
@@ -10,11 +10,11 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 
 ### JavaScript
 
-<img src="images/td-light-js.png" width="600" />
+<img src="https://github.com/tinacious/atom-tinacious-design-light-syntax/raw/master/images/td-light-js.png" width="600" />
 
 ### React (JSX)
 
-<img src="images/td-light-jsx.png" width="600" />
+<img src="https://github.com/tinacious/atom-tinacious-design-light-syntax/raw/master/images/td-light-jsx.png" width="600" />
 
 
 ## Changelog
