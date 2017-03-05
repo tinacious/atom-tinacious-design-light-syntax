@@ -19,5 +19,5 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 
 ## Changelog
 
-### 0.1.0 - Initial Release
+### 1.0.0 - Initial Release
 - Initial release
