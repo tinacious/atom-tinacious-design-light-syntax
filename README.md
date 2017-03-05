@@ -10,11 +10,11 @@ Colours curated by Web and Mobile designer and developer Tina from [Tinacious De
 
 ### JavaScript
 
-![](images/td-light-js.png)
+<img src="images/td-light-js.png" width="600" />
 
 ### React (JSX)
 
-![](images/td-light-jsx.png)
+<img src="images/td-light-jsx.png" width="600" />
 
 
 ## Changelog
